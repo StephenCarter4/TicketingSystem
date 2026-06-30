@@ -5,7 +5,7 @@
 
 In this lab I will create a simple ticketing system using Spiceworks. This lab will show the ticket creation process with examples of proper ticket descriptions. This system will also include automatic ticket assignment based on the category of the issue. 
 
-<h2>Utilies Used</h3>
+<h2>Utilities Used</h3>
 
 [Spiceworks.com](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj8yO7D5K2VAxU7JUQIHZgEAcwQFnoECA0QAQ&url=https%3A%2F%2Fwww.spiceworks.com%2F&usg=AOvVaw3CtLketUv6drIOuvjTvq0k&opi=89978449)
 
